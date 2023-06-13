@@ -53,6 +53,11 @@ button:hover{
     cursor: pointer;
 }
 
+#warning{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
 ul {
     list-style-type: none;
     padding: 0;
